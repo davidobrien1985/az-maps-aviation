@@ -21,3 +21,5 @@ Once done you can launch `map.html` in the browser of your choice.
 You can now drag and drop any `.geojson` file (example can be found in the `tracks` directory) and the track will be rendered on the map.
 Click on any point on the track and it will show you the current weather at this coordinate.
 There is also a weather overlay that shows radar/infrared weather.
+
+![azure-maps](img/result.png)
